@@ -11,9 +11,9 @@
 
 ## Participants
 * 김정훈
-* 박태현
+* [박태현](https://github.com/Delico-907/Study-in-907)
 * 이상규 
-* 이정택
+* [이정택](https://github.com/jtrhee)
 * 최연지
 
 ## Contents
