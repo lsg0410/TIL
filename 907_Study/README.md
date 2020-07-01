@@ -10,9 +10,9 @@
 *
 
 ## Participants
-* 김정훈
+* [김정훈](https://github.com/youngvctr)
 * [박태현](https://github.com/Delico-907/Study-in-907)
-* 이상규 
+* [이상규 ](https://github.com/lsg0410)
 * [이정택](https://github.com/jtrhee)
 * 최연지
 
