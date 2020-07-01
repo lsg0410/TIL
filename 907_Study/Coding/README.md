@@ -19,7 +19,7 @@
 ## Schedule
 
 * **Week1**
-  * [if](https://www.acmicpc.net/problem/14681)
+  * [If](https://www.acmicpc.net/problem/14681)
   * [For](https://www.acmicpc.net/problem/2739)
   * [While](https://www.acmicpc.net/problem/1110)
   * [Arrangement](https://www.acmicpc.net/problem/4344)
