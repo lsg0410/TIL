@@ -1,6 +1,6 @@
 
 #14681
-"""
+""" if문
 x=int(input())
 y=int(input())
 
@@ -16,7 +16,7 @@ elif x<0:
         print("3")
 """
 
-"""
+"""for문
 #106116
 number=int(input())
 type(number)
@@ -25,6 +25,7 @@ for i in range(1,10):
 
     i=i+1
 """
+""" while문 (아직 작업중)
 #1110
 number = int(input())
 if number<99 and number>=0:
@@ -49,3 +50,4 @@ if number<99 and number>=0:
         if number_1 == number:
             break
     print(cycle)
+"""
