@@ -29,7 +29,7 @@
     * [Factorial](https://www.acmicpc.net/problem/10872)
     * [Fibonacci Numbers](https://www.acmicpc.net/problem/10870)
 * **Week2**
-  * [Cue](https://www.acmicpc.net/problem/1966)
+  * [Queue](https://www.acmicpc.net/problem/1966)
   * [Stack](https://www.acmicpc.net/problem/10799)
 * **Week3**
   * [DP](https://www.acmicpc.net/problem/9095)
